@@ -384,7 +384,7 @@ export function getInitialObject() {
       len: 0,
       stype: [],
       styleList: [{
-        fontSize: 20,
+        fontSize: 15,
       }],
       tag: 'body',
       NewLine: true,
@@ -430,16 +430,16 @@ const defaultStyles = StyleSheet.create(
       fontSize: 25,
     },
     body: {
-      fontSize: 20,
+      fontSize: 15,
     },
     title: {
       fontSize: 30,
     },
     ul: {
-      fontSize: 20,
+      fontSize: 15,
     },
     ol: {
-      fontSize: 20,
+      fontSize: 15,
     },
     red: {
       color: '#d23431',
